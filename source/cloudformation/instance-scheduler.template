@@ -1353,6 +1353,7 @@
                         "Arn"
                     ]
                 },
+                "KmsKeyArn" : "arn:aws:kms:us-east-1:822373129316:key/3041bcbb-5b10-4fb8-adeb-626727d7567c",
                 "Environment": {
                     "Variables": {
                         "CONFIG_TABLE": {
